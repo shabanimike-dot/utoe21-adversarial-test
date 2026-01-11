@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "UToE 2.1: Logistic–Scalar Adversarial Test (Preregistered)"
+authors:
+  - family-names: Shabani
+    given-names: Majid
+repository-code: "https://github.com/shabanimike-dot/utoe21-adversarial-test"
+license: MIT
+keywords:
+  - emergence
+  - dynamical systems
+  - logistic growth
+  - adversarial testing
+  - preregistration
+  - open science
+abstract: >
+  Analytic code implementing the preregistered adversarial model-comparison
+  pipeline for the Unified Theory of Emergence (UToE 2.1). The repository
+  evaluates a bounded logistic–scalar growth model against adversarial
+  alternatives using information-theoretic criteria and phase-randomized
+  robustness controls.
